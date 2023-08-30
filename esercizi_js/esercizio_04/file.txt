@@ -1,0 +1,7 @@
+Scrivere una funzione che prenda 
+in ingresso due array e mi restituisca 
+un nuovo array che sia l'unione dei due passati.
+
+Esempio: arr1 = [1,2,3]   arr2=['ciao', 'sono','Matteo']
+
+output=[1,2,3,'ciao','sono','Matteo']

@@ -1,0 +1,8 @@
+Scrivere una funzione che prenda 
+in ingresso un numero N, 
+un valore minimo ed un valore massimo 
+e mi restituisca un array con all'interno N 
+numeri casuali compresi tra il minimo ed il massimo.
+
+
+Esempio: N=3  min=1  max=5       output= [5, 1, 3]

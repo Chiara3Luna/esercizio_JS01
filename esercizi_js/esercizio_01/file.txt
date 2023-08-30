@@ -1,0 +1,4 @@
+Scrivere una funzione che prenda 
+in ingresso un qualsiasi dato e 
+mi restituisca una stringa con 
+scritto: 'Il dato inserito è un <tipo del dato>'
